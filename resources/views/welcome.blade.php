@@ -20,7 +20,7 @@
 
 <body>
     <div class="col-12">
-        <div class="row">
+        <div class="row text-center">
             <h1 class="text-primary">QR Maquinarias</h1>
         </div>
     </div>
